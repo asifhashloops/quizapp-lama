@@ -13,6 +13,10 @@ function App() {
       amount: "$ 100",
     },
     {
+      id: "main",
+      amount: "$main",
+    },
+    {
       id: 2,
       amount: "$ 200",
     },
