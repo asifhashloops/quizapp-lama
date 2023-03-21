@@ -7,6 +7,7 @@ function App() {
   const [asnwer, setAsnwer] = useState(0);
   const [newAnser, setNewAnswer] = useState("new");
   const [main, setMain] = useState(0);
+  const [thirdBrnach, setThirdBrnach] = useState("new");
   const moneyPyramid = [
     {
       id: 1,
