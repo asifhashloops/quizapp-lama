@@ -4,6 +4,8 @@ import Quiz from "../src/quiz";
 
 function App() {
   const [questionNumber, setQuestionNumber] = useState(10);
+  const [laura, SetLaura] = useState(0);
+  const [laura2, setLura2] = useState(0);
   const moneyPyramid = [
     {
       id: 1,
